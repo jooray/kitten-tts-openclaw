@@ -1,0 +1,5 @@
+kittentts==0.8.1
+soundfile==0.13.1
+phonemizer==3.3.0
+espeakng-loader==0.2.4
+onnxruntime==1.24.3
