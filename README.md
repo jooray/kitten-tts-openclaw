@@ -1,5 +1,21 @@
 # kitten-tts-openclaw
 
+## No longer maintained
+
+I do not maintain this project any more. For turning text into audio see
+[markdown2audio](https://github.com/jooray/markdown2audio). For local speech
+recognition rather than synthesis, see
+[Livecaster](https://github.com/jooray/livecaster-llm).
+
+For what I am building now, see my
+[project showcase](https://juraj.bednar.io/showcase/).
+
+I also write books and work on things that are not code: my cypherpunk novel
+[Tamers of Entropy](https://tamersofentropy.net/), my English podcast
+[Option Plus](https://optionplus.io/), [my blog](https://juraj.bednar.io/en/blog-en/),
+and [everything else](https://juraj.bednar.io/en). There is also
+[more about me](https://juraj.bednar.io/en/about-me/).
+
 A small wrapper around KittenTTS for local text-to-speech on low-power machines.
 
 It is meant for the boring, practical use case: take text, generate speech locally, and get a WAV file you can use in other workflows. It runs in a `uv`-managed virtual environment, supports long text, and stays CPU-friendly.
